@@ -93,5 +93,4 @@ public class WordFrequencyCounter {
 ✔ Learn to **implement thread-safe data structures** using concurrent collections.  
 ✔ Compare **performance impact** of different concurrent collections.  
 
-Would you like additional bonus challenges or modifications to this lab? 🚀
 
